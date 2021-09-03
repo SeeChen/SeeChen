@@ -1,2 +1,2 @@
-### Here is my code repository for learning programming.
-<span style="font-size:0.5em;font-style:italic;color:red;">hah</span>
+### Here is the code repository when a vegetable chicken learns to program.
+**<sub>In the repository below, please be sure to read the README file before viewing my noob code</sub>**
