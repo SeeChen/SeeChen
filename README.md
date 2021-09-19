@@ -4,4 +4,4 @@
 **<sup>Wish you all program AC 🎉</sup>**
 </br>
 <img src="https://www.emojidaquan.com/Uploads/image/202105/1621219923545111.gif" width="100" height="100" alt=""/></br>
-<a href="https://gitter.im/SeeChen" target="_blank">![GitHub](https://img.shields.io/badge/CHAT-on_GITTER-FF5CF7)</a>
+<a href="https://gitter.im/SeeChen" target="_blank">![GitHub](https://img.shields.io/badge/CHAT-on_GITTER-FF5CF7?style=flat&logo=gitter)</a>
