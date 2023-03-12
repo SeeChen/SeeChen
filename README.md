@@ -1,7 +1,32 @@
-### Here is the code repository when a 🥦🐔 learns to program.
-<sub>*In the repository below, please be sure to read the README file before viewing my noob code.* 😏</sub>
+<div align="center">
+
+<kbd>
+<img src="https://avatars.githubusercontent.com/u/39422761?v=4" height="125px"/>
+</kbd>
+
+# **SeeChen**
+
+<a href="https://matrix.to/#/@seechen-614708ab6da03739848607be:gitter.im" target="_blank">![GitHub](https://img.shields.io/badge/CHAT-GITTER-FF5CF7?style=flat&logo=gitter)</a>
+<a href="https://discord.com/users/849261427906838528" target="_blank">![GitHub](https://img.shields.io/badge/CHAT-DISCORD-5865F2?style=flat&logo=discord)</a>
+
+<hr width="20%"/>
+
+### **INTRODUCTION**
+<hr width="20%"/><br/>
+
+*Newbie Student of Beijing Institute of Technology*
+
 <br/>
-**<sup>Wish you all program AC 🎉</sup>**
-</br>
-<img src="https://www.emojidaquan.com/Uploads/image/202105/1621219923545111.gif" width="100" height="100" alt=""/></br></br></br>
-<a href="https://gitter.im/SeeChen" target="_blank">![GitHub](https://img.shields.io/badge/CHAT-GITTER-FF5CF7?style=flat&logo=gitter)</a>
+
+<hr width="20%"/>
+
+### **STATE**
+<hr width="20%"/><br/>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SeeChen&theme=blue-green)
+
+![Github](https://github-profile-trophy.vercel.app/?username=SeeChen&title=Issue,Repo,Commit&theme=darkhub&no-frame=true&column=-1)
+
+![SeeChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeeChen&show_icons=true&theme=merko)
+
+</div>
