@@ -22,6 +22,14 @@ Visit my Sites
 ### **INTRODUCTION**
 <hr width="20%"/><br/>
 
+**Research as root, rest as nurture, joy as balm;**
+
+**Science as purpose, discipline as path, health as foundation.**
+
+**研究为本，休息为养，娱乐为润；**
+
+**科研为志，自律为本，健康为基。**
+
 <samp>
 <strong>Newbie Person</strong>
 </samp>
