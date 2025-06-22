@@ -30,15 +30,11 @@ Visit my Sites
 
 **科研为志，自律为本，健康为基。**
 
+<br/><br/>
+
 <samp>
 <strong>Newbie Person</strong>
 </samp>
-<br/><br/>
-
-```
-AI should not be used to solve a problem,
-When the problem can be solved using algorithms alone.
-```
 
 <br/>
 
