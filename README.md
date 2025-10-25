@@ -17,7 +17,7 @@ Visit my Site
 
 <a href="https://matrix.to/#/@seechen-614708ab6da03739848607be:gitter.im" target="_blank">![Gitter](https://img.shields.io/badge/CHAT-GITTER-FF5CF7?style=flat&logo=gitter)</a>
 <a href="https://discord.com/users/849261427906838528" target="_blank">![Discord](https://img.shields.io/badge/CHAT-DISCORD-5865F2?style=flat&logo=discord)</a>
-<a href="https://www.linkedin.com/in/seechen/" target="_blank">![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0077B5?style=flat&logo=linkedin)</a>
+<a href="https://www.linkedin.com/in/seechen-lee/" target="_blank">![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0077B5?style=flat&logo=linkedin)</a>
 
 <hr width="20%"/>
 
