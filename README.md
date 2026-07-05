@@ -30,10 +30,3 @@ focused on **AI-driven IoT systems** and **scalable distributed architectures**.
 **AI / ML** — PyTorch · TensorFlow · Computer Vision
 
 **Data & Infra** — Spark · Docker · Kubernetes · Linux
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeeChen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeeChen&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
